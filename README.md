@@ -19,7 +19,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=😄I'm+interested+in..." alt="Typing SVG" /></a> 
 ---
-<img src="https://img.shields.io/badge/universe-%23734F96.svg?&style=for-the-badge&logo=stardock&logoColor=white" /> <img src="https://img.shields.io/badge/NETFLIX-%FF00000.svg?&style=for-the-badge&logo=NETFLIX&logoColor=FF0000" />
+
+![js](https://img.shields.io/badge/NETFLIX-000000?style=for-the-badge&logo=NETFLIX&logoColor=#E50914)
 ![js](https://img.shields.io/badge/googleanalytics-FFB71B?style=for-the-badge&logo=googleanalytics&logoColor=#E37400)
 ![js](https://img.shields.io/badge/applemusic-BA0C2F?style=for-the-badge&logo=applemusic&logoColor=#FA243C)
 
