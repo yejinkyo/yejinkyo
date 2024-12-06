@@ -2,8 +2,8 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=**🖥️I'm+currently+learning**" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=🖥️I'm+currently+learning" alt="Typing SVG" /></a>
+---
 ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -13,8 +13,17 @@
 ![js](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![FIGMA](https://img.shields.io/badge/FIGMA-black?style=flat-square&logo=figma&logoColor=red&logoWidth=12)
+![js](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=#F24E1E)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejinkyo)](https://github.com/anuraghazra/github-readme-stats)
 
-## Future Plans
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=😄I'm+interested+in..." alt="Typing SVG" /></a> 
+---
+<img src="https://img.shields.io/badge/universe-%23734F96.svg?&style=for-the-badge&logo=stardock&logoColor=white" /> <img src="https://img.shields.io/badge/NETFLIX-%FF00000.svg?&style=for-the-badge&logo=NETFLIX&logoColor=FF0000" />
+![js](https://img.shields.io/badge/googleanalytics-FFB71B?style=for-the-badge&logo=googleanalytics&logoColor=#E37400)
+![js](https://img.shields.io/badge/applemusic-BA0C2F?style=for-the-badge&logo=applemusic&logoColor=#FA243C)
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=☁️Future+Plans" alt="Typing SVG" /></a>
+---
+
