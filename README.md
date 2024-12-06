@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=100:a82da8&height=300&section=header&text=This%20is%20YejinKyo&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=F5A9F2&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=100:a82da8&height=300&section=header&text=This%20is%20Deadpool&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=F5A9F2&strokeWidth=1)
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=🖥️촤하하" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=🖥️I'm currently learing" alt="Typing SVG" /></a>
 ---
 ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
