@@ -2,7 +2,7 @@
 
 
 
-### 🖥️ **I'm currently learning**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=**🖥️I'm+currently+learning**" alt="Typing SVG" /></a>
 
 ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
