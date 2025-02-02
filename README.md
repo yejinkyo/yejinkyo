@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=100:a82da8&height=300&section=header&text=it's+yejinkyo&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=F5A9F2&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=slice&height=300&color=0:ffffff,100:ㄹㄹㅊ0츄&text=it's%20yejinkyo&section=header&fontAlignY=43&animation=twinkling&textBg=false&reversal=false)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&pause=1000&color=FFFFFF&width=435&lines=🖥️I've been studying" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=101010&background=CDCDCD&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%96%A5%EF%B8%8FI've+been+studying)](https://git.io/typing-svg)
 ---
 ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,11 +15,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejinkyo)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton+Code&pause=1000&color=FFFFFF&width=435&lines=🤖I'm+interested+in" alt="Typing SVG" /></a> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=101010&background=CDCDCD&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%9A%80I'm+interested+in)](https://git.io/typing-svg)
 ---
+- Universe🚀
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=☁️Future+Plans" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=101010&background=CDCDCD&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%8C%A0Future+Plans)](https://git.io/typing-svg)
 ---
+- What I'm Gonna Learn🍔
 
+![js](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=#61DAFB)
+![js](https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=#02569B)
+![js](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=#412991)
+- Plan to Master DL😎
+- Stats Review✨
+- some Side Projects🦖
+- Commit Everyday🤖
