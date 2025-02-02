@@ -21,7 +21,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=101010&background=CDCDCD&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%8C%A0Future+Plans)](https://git.io/typing-svg)
 ---
-- What I'm Gonna Learn🍔
+- What I'm Gonna Learn👽
 
 ![js](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=#61DAFB)
 ![js](https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=#02569B)
