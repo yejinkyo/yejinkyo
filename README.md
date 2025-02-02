@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=100:a82da8&height=300&section=header&text=hi+it's+yejinkyo&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=F5A9F2&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=100:a82da8&height=300&section=header&text=it's+yejinkyo&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=F5A9F2&strokeWidth=1)
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=🖥️I'm currently learing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&pause=1000&color=FFFFFF&width=435&lines=🖥️I've been studying" alt="Typing SVG" /></a>
 ---
 ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,14 +15,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejinkyo)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=😄I'm+interested+in..." alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton+Code&pause=1000&color=FFFFFF&width=435&lines=🤖I'm+interested+in" alt="Typing SVG" /></a> 
 ---
 
-![js](https://img.shields.io/badge/NETFLIX-000000?style=for-the-badge&logo=NETFLIX&logoColor=#E50914)
-![js](https://img.shields.io/badge/googleanalytics-FFB71B?style=for-the-badge&logo=googleanalytics&logoColor=#E37400)
-![js](https://img.shields.io/badge/applemusic-BA0C2F?style=for-the-badge&logo=applemusic&logoColor=#FA243C)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9F2&width=435&lines=☁️Future+Plans" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=☁️Future+Plans" alt="Typing SVG" /></a>
 ---
 
